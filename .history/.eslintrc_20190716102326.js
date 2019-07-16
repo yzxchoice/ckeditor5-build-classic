@@ -8,8 +8,5 @@
 'use strict';
 
 module.exports = {
-	extends: 'ckeditor5',
-	rules: {
-		"linebreak-style": 0   // <----------
-	}
+	extends: 'ckeditor5'
 };
